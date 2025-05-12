@@ -1,4 +1,4 @@
-bhr# Apple Homebrew Tap
+# Apple Homebrew Tap
 
 This repository contains formulae for use with Homebrew: https://brew.sh
 
